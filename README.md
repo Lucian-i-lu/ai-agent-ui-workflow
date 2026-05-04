@@ -24,19 +24,35 @@ Refinement
 ↓
 Final Output
 
-🖼 My Work
+## 🖼 My Work
 
-UI Design
+### UI Design
+![ui](ui1.jpg)
 
-￼
+---
 
-Before vs After
+### Before vs After
+![compare](compare.jpg)
 
-￼
+---
 
-Workflow
+### Workflow
+![workflow](workflow.jpg)## 🖼 My Work
 
-￼
+### UI Design
+![ui](ui1.jpg)
+
+---
+
+### Before vs After
+![compare](compare.jpg)
+
+---
+
+### Workflow
+![workflow](workflow.jpg)
+
+
 
 📊 Results
 
